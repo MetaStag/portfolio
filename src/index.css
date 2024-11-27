@@ -2,14 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.oswald-font {
-  font-family: "Oswald", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 300;
-  font-style: normal;
-}
-
 body {
-    background-color: #bce7ef;
     font-family:"Montserrat", sans-serif;
 }
