@@ -99,7 +99,7 @@ export default function App() {
 
         <motion.div className={`div ${toggle} rounded-lg p-5 flex flex-col`} whileHover={{scale: 1.1}}>
           <span className="text-[#0077B6] text-lg font-bold">Tech Stack</span>
-          <div className="grid grid-cols-2 mt-5 p-2">
+          <div className="grid grid-cols-1 sm:grid-cols-2 mt-5 p-2">
             <span><img src={ReactIcon} className="inline w-8 px-1 py-2" alt="React icon"></img>React & Next.js</span>
             <span><img src={ExpressIcon} className="inline w-8 px-1 py-2" alt="Next icon"></img>Express.js</span>
             <span><img src={MongoIcon} className="inline w-8 px-1 py-2" alt="Next icon"></img>Mongodb & Firebase</span>
