@@ -5,9 +5,9 @@ export const projects = [
       link: "https://github.com/MetaStag/godc"
     },
     {
-      name: "awesome-dots",
-      description: "Dotfiles written for my AwesomeWM configuration",
-      link: "https://github.com/MetaStag/awesome-dots"
+      name: "sociul",
+      description: "A social media app made with next.js + firebase",
+      link: "https://github.com/MetaStag/sociul"
     },
     {
       name: "led",
@@ -37,7 +37,6 @@ export const favorites = [
 ]
 
 export const future = [
-    "Learn JWT & Firebase",
-    "Make an AI Project",
-    "Practice Fullstack"
+    "Make a MERN stack project",
+    "Practice DSA & Codeforces",
 ]
